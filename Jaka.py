@@ -1,0 +1,1 @@
+print("Solata je zelena")
